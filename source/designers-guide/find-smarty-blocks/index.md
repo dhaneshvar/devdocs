@@ -6,7 +6,7 @@ indexed: true
 ---
 
 ## Introducing
-In the following we'll guide throught the process on how to find smarty blocks in the template files of Shopware. It's not always as easy as it seems like but there are some tips which should finding the necessary block as easy as possible.
+In the following we'll guide throught the process on how to find smarty blocks in the template files of Shopware. It's not always as easy as it seems like but there are some tips which should make finding the necessary block as easy as possible.
 
 ## Anatomy of Shopware - A templater's perspective.
 First of all, we would like to start with the anatomy of Shopware. If you understand the structure of the system, you know where you have to search for a block.
